@@ -1,0 +1,7 @@
+@tailwind components;
+
+@layer components {
+    .header-links {
+    @apply font-bold cursor-pointer text-gray-600 hover:text-black
+    }
+}
