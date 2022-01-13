@@ -1,4 +1,4 @@
-import { LoggedIn, Header } from './components/index';
+import { LoggedIn, Header } from '../components/index';
 import Head from 'next/head';
 
 function account() {

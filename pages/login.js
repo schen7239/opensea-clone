@@ -1,8 +1,7 @@
-import { Header } from "./components/index";
+import { Header, NotLoggedIn } from "../components/index";
 import Head from "next/head";
 
 import { useMoralis } from 'react-moralis';
-import { NotLoggedIn } from "./components/index";
 
 function login() {
     const { isAuthenticated } = useMoralis();

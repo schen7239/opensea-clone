@@ -1,4 +1,4 @@
-import { Header, Banner, Collections } from '../pages/components/index';
+import { Header, Banner, Collections } from '../components/index';
 import Head from 'next/head'
 
 export default function Home() {
